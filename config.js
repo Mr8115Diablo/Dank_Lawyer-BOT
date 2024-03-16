@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['919107227019', 'DANK-lawyer', true],
-  ['919934009592', 'F B I', true], 
+  ['919934009592', 'FBI', true], 
   [''] 
 ] //Number of owners
 
@@ -56,7 +56,7 @@ global.packname = 'DANK┃ᴮᴼᵀ'
 global.author = '@Dank_Lawyer' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/dank_lawyer\n' 
-global.dygp = 'https://chat.whatsapp.com/Bkp0IXmbNhF2h4jZbH5I34'
+global.dygp = 'https://chat.whatsapp.com/JzSWkazWy5zA4vGjIAn0pg'
 global.fgsc = 'https://github.com/Mr8115Diablo' 
 global.fgyt = 'https://youtube.com/@potato_'
 global.fgpyp = 'https://youtube.com/@potato_'
